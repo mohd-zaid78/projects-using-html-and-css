@@ -1,0 +1,342 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(206, 234, 151);
+    height: 12vh;
+    width: 100%;
+    
+}
+#img1{
+    width: 12vh;
+    height: 9vh;
+    padding-top: 13px;
+    margin-left: 120px;
+    
+}
+#hdiv1{
+    display: inline;
+ 
+}
+.headcontainer{
+    display: inline-flex;
+    position: relative;
+    bottom: 10px;
+    left: 40px;
+}
+.headcontainer2{
+   
+    display: inline-flex;
+    position: relative;
+    bottom: 10px;
+    left: 60px;
+    
+}
+#img2{
+    width: 2.5vw;
+    height: 4vh;
+   
+}
+#img3{
+    width: 2.5vw;
+    height: 4vh;
+    position: relative;
+
+    
+}
+#img4{
+    width: 2vw;
+    height: 4vh;
+    position: relative;
+   
+}
+#img5{
+    width: 2.5vw;
+    height: 4vh;
+    position: relative;
+    
+    
+}
+#img6{
+    width: 2.5vw;
+    height: 4vh;
+    position: relative;
+  
+    right: 10px;
+}
+#mdiv1{
+    width: 100% ;
+    background-color: rgb(54, 188, 143);
+  
+}
+nav{
+    height: 5vh;
+  
+}
+#navimg1{
+    height: 2.5vh;
+    width: 2vw;
+    position: relative;
+    margin-left: 80px;
+    top: 8px;
+    left: 40px;
+
+}
+ul{
+    display: inline-flex;
+    position: relative;
+    left: 350px;
+    bottom: 25px;
+}
+li{
+    padding: 10px;
+    list-style: none;
+    
+    
+}
+section{
+    margin-top: 10px;
+    
+}
+.mdiv3{
+    height: auto;
+   
+}
+.mdiv4{
+    width: 20.35%;
+    position: relative;
+    left: 40px;
+    border-right: 1px solid black;
+    
+
+}
+#ul2{
+    flex-direction: column;
+    position: relative;
+    top: 20px;
+    left: 0px;
+    
+}
+.li2{
+    list-style: square inside;
+    border-bottom: 1px solid black;
+    
+
+}
+h2{
+    text-align: center;
+}
+.mdiv5{
+    position: relative;
+    bottom: 166vh;
+    left: 24vw;
+    background-color: bisque;
+    width: 50vw;
+    height: 13vh;
+}
+#newsimg{
+    width: 50vw;
+    height: 60vh;
+    position: relative;
+    top: 5px;
+
+}
+.i{
+    width: 15.8vw;
+}
+.mdiv7{
+    position: relative;
+    right: 360px;
+    top: 42px;
+    
+
+}
+.lin{
+    padding-left: 30px;
+}
+#imgmodi{
+    width: 50vw;
+    height: 310px;
+    position: relative;
+    left: 360px;
+    bottom: 10px;
+    
+
+}
+#mdiv8{
+   width: 26vw;
+   position: relative;
+   bottom: 165vh;
+   left: 780px;
+   height: 166vh;
+   border-left: 1px solid black;
+    
+}
+#ul3{
+    flex-direction: column;
+    top: 35px;
+    left: 0px;
+    width: 22vw;
+
+}
+.lil{
+    list-style: square inside;
+    border-bottom: 1px solid black;
+}
+
+footer{
+    background-color: rgb(206, 234, 151);
+    position: relative;
+    height: 100px;
+    bottom: 60px;
+    border-top: 1px solid black;
+    border-bottom: 1px black solid;
+    text-align: right;
+    
+}
+h4{
+    position: relative;
+    top: 60px;
+    right: 40px;
+
+}
+.footerdiv{
+   
+    display: flex;
+    float: left;
+    position: relative;
+    width: 200px;
+    height:70px ;
+    top: 16px;
+    left: 200px; 
+
+}
+.fimage{
+       width: 6vw;
+      
+}
+#fdiv1{
+  
+    height: 80px;
+}
+#fanc{
+    position: relative;
+    bottom: 5px;
+    right: 65px;
+    
+}
+#ful{
+    flex-direction: column;
+    
+    left: 300px;
+    text-align: center;
+
+    
+}
+.fli{
+    padding: 1px;
+    height: 16px;
+    
+
+}
+#lasth4{
+    right: 200px;
+}
+#link{
+    position: relative;
+    left: 92vw;
+    bottom: 11vh;
+    display: grid;
+    grid-row-gap: 10px;
+
+}
+
+/*=====================================from here the singup and the login page css property starts====================================*/
+
+#container2{
+    height: 400px;
+    width: 315px;
+    background-color: rgb(150, 232, 232);
+    border-radius: 15px;
+    border: 1px solid black;
+   
+    
+
+}
+h1{
+   position: relative;
+   left: 55px;
+   padding: 4px; 
+   top: 20px;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+div{
+    padding: 6px;
+
+}
+form{
+    margin-top: 40px;
+    position: relative;
+    left: 20px;
+}
+input{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    
+}
+button{
+    height: 36px;
+    width: 255px;
+    background-color: rgb(14, 14, 8);
+    border-radius: 5px;
+    color: white;
+}
+#logindiv{
+    margin-top: -15px;
+    position: relative;
+    right: 20px;
+
+}
+.rootcontainer{
+    display: grid;
+    grid-template-columns: auto auto ;
+    
+    
+}
+#container1{
+    position: relative;
+    top: 30vh;
+    left: 19vw;
+}
+#container2{
+    position: relative;
+    top: 20vh;
+}
+pre{
+    margin-top: 6px;
+}
+#hlogin{
+    position: relative;
+    left:    40px;
+    padding: 4px; 
+    top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+ }
+ #plogin{
+     position: relative;
+     left: 50px;
+     top: 20px;
+ 
+ }
+
+
+
